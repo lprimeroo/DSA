@@ -9,7 +9,7 @@
 7. [Djikstra's Algorithm](https://github.com/saru95/DSA/blob/master/Djikstra.cpp)
 8. [Fast Modulo Multiplication / Binary Exponention](https://github.com/saru95/DSA/blob/master/Fmm.cpp)
 9. [Meet in Middle](https://github.com/saru95/DSA/blob/master/Mim.cpp)
-10. [Binary Search](https://github.com/saru95/DSA/blob/master/Fmm.cpp)
+10. [Binary Search](https://github.com/saru95/DSA/blob/master/BinarySearch.cpp)
 11. [Matrix Exponention](https://github.com/saru95/DSA/blob/master/Me.cpp)
 12. [Modular Multipicative Inverse](https://github.com/saru95/DSA/blob/master/Mmi.cpp)
 13. [Tries](https://github.com/saru95/DSA/blob/master/Tries.cpp)
@@ -17,3 +17,4 @@
 15. [Rabin-Karp Algorithm](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp)
 16. [Binary Search Tree](https://github.com/saru95/DSA/blob/master/BST.cpp)
 17. [Fermat's Little Theorem](https://github.com/saru95/DSA/blob/master/Fermat.cpp)
+18. [Sieve of Eratosthenes](https://github.com/saru95/DSA/blob/master/SEPrime.cpp)
