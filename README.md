@@ -2,9 +2,9 @@
 
 1. [Knuth-Morris-Pratt Algorithm](https://github.com/saru95/DSA/blob/master/KMP.cpp)
 2. [Depth First Search w/o stack](https://github.com/saru95/DSA/blob/master/DFS.cpp)
-3. [Depth First Search with stack]()
+3. [Depth First Search with stack](https://github.com/saru95/DSA/blob/master/DFSS.cpp)
 4. [Breadth First Search w/o queue](https://github.com/saru95/DSA/blob/master/BFS.cpp)
-5. [Breadth First Search with queue]()
+5. [Breadth First Search with queue](https://github.com/saru95/DSA/blob/master/BFSQ.cpp)
 5. [Suffix Array](https://github.com/saru95/DSA/blob/master/SuffixArray.cpp)
 6. [Segment Trees](https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp)
 7. [Euler Totient Function](https://github.com/saru95/DSA/blob/master/EulerTotient.cpp)
