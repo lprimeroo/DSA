@@ -52,7 +52,8 @@ void buildTree(int top, int l, int r) {
 }
 
 void updateTree(int l, int r, int i, int j, int top, int value) {
-	if (l>j || r<i) return ;
+	if (l>j || r<i) return ;  //do not forget this 
+
 	if(lazy[top]!=0) {
 		tree[top] += lazy[top] ;
 
