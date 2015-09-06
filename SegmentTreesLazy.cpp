@@ -106,8 +106,9 @@ int queryTree(int top, int l, int r, int i, int j) {
 int main(int argc, char const *argv[]) {
 	for(int i =0;i<20;i++)
 		a[i] = 1 ;
-	memset(lazy,0,sizeof(lazy)) ;
+
 	buildTree(0,0,19) ;
+	memset(lazy,0,sizeof(lazy)) ;
 	updateTree(0, 19, 0, 6,0, 5) ; 
 	updateTree(0, 19,7, 10, 0, 12) ; 
 	updateTree(0,19, 10, 19,0, 100) ; 
