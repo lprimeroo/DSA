@@ -22,3 +22,5 @@
 20. [Sieve of Eratosthenes](https://github.com/saru95/DSA/blob/master/SEPrime.cpp)
 21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.cpp)
 22. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp)
+23. [Pollard Rho Brent Integer Factorization](https://github.com/saru95/DSA/blob/master/PRB.cpp)
+24. [Binary Indexed Trees / BIT](https://github.com/saru95/DSA/blob/master/BIT.cpp)
