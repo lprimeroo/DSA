@@ -45,13 +45,8 @@ void FW() {
     }
   }
   for (int k = 0; k < v; k++) {
-        // Pick all vertices as source one by one
         for (int i = 0; i < v; i++){
-            // Pick all vertices as destination for the
-            // above picked source
             for (int j = 0; j < v; j++) {
-                // If vertex k is on the shortest path from
-                // i to j, then update the value of dist[i][j]
                 if (dis[i][k] + dis[k][j] < dis[i][j])
                     dis[i][j] = dis[i][k] + dis[k][j] ;
             }
@@ -59,12 +54,12 @@ void FW() {
     }
     for (int i = 0; i < v; i++){
         for (int j = 0; j < v; j++){
-            if (dis[i][j] == 99999)
-                printf("%7s", "INF");
+            if (dis[i][j] == 9999)
+                cout << "INF " ;
             else
-                printf ("%7d", dis[i][j]);
+                cout << dis[i][j] << "\t" ;
         }
-        printf("\n");
+        cout << endl ;
     }
 
 
@@ -74,7 +69,7 @@ int main(int argc, char const *argv[]) {
   cin >> v ; //number of vertices
   for(int i =0;i<v;i++) {
     for(int j=0;j<v;j++) {
-      cin >> graph[v][v] ;  //enter 99999 for no edge
+      cin >> graph[i][j] ;  //enter 9999 for no edge
     }
   }
   FW() ;
