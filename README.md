@@ -1,4 +1,5 @@
 # DSA (Data Structures and Algorithms)
+Reference purposes . 
 
 1. [Knuth-Morris-Pratt Algorithm](https://github.com/saru95/DSA/blob/master/KMP.cpp)
 2. [Depth First Search w/o stack](https://github.com/saru95/DSA/blob/master/DFS.cpp)
@@ -22,5 +23,6 @@
 20. [Sieve of Eratosthenes](https://github.com/saru95/DSA/blob/master/SEPrime.cpp)
 21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.cpp)
 22. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp)
-23. [Pollard Rho Brent Integer Factorization](https://github.com/saru95/DSA/blob/master/PRB.cpp)
+23. [Pollard Rho Integer Factorization](https://github.com/saru95/DSA/blob/master/PRB.cpp)
 24. [Binary Indexed Trees / BIT](https://github.com/saru95/DSA/blob/master/BIT.cpp)
+25. [Square Root Decomposition](https://github.com/saru95/DSA/blob/master/SRD.cpp)
