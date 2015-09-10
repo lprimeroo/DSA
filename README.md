@@ -26,3 +26,4 @@ Reference purposes .
 23. [Pollard Rho Integer Factorization](https://github.com/saru95/DSA/blob/master/PRB.cpp)
 24. [Binary Indexed Trees / BIT](https://github.com/saru95/DSA/blob/master/BIT.cpp)
 25. [Square Root Decomposition](https://github.com/saru95/DSA/blob/master/SRD.cpp)
+26. [Ford-Fulkerson Algorithm for Maximum Flow / Edmonds Karp Algorithm](https://github.com/saru95/DSA/blob/master/FFA.cpp)
