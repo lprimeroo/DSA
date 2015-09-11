@@ -7,6 +7,7 @@
 #include <math.h>
 #include <utility>
 #include <cmath>
+#include <limits.h>
 #include <set>
 #include <vector>
 #include <map>
@@ -35,28 +36,29 @@ typedef std::pair<int, int> pii;
 typedef std::set<int> si;
 typedef std::map<std::string, int> msi;
 
-int nodes ;
+int nodes , parent;
 
-bool bfs(int rgraph[nodes][nodes], int source, int sink, int path) {
+bool bfs(int rgraph[nodes][nodes], int source, int sink) {
   bool visited[nodes] ;
   memset(visited,false, sizeof(visited)) ;
   queue<int> q ;
   q.push(source) ;
   visited[source] = true ;
-  path[source] = -1 ;
+  parent[source] = -1 ;
   while(!q.empty()) {
     int u = q.front() ;
     q.pop() ;
     for(int i=0;i<nodes;i++) {
-      if(visited[i]==false && rgraph[u][v] > 0){
+      if(visited[i]==false && rgraph[u][i] > 0){
         q.push(i) ;
-        path[i] = u ;
+        parent[i] = u ;
         visited[i] = true ;
       }
     }
   }
   return (visited[sink]==true) ;
 }
+
 
 void FFA(int graph[nodes][nodes], int source, int sink) {
   int rgraph[nodes][nodes], u ;
@@ -66,27 +68,31 @@ void FFA(int graph[nodes][nodes], int source, int sink) {
       rgraph[i][j] =  graph[i][j] ;  //initialising Residual Graph
     }
   }
-  int path[nodes] , maxflow = 0 ; //path used by bfs to store path
-  while (bfs(rgraph, source, sink, path)) {
-      int pathflow = INT_MAX ;
-      for(int i=sink;i!=source;i=path[i]) {
-          u = path[i] ;
-          pathflow = min(pathflow, rgraph[u][i]) ;
+
+  int maxflow = 0 ; //parent used by bfs to store parent
+  parent = new int[nodes] ;
+  while (bfs(rgraph, source, sink)) {
+      int parentflow = INT_MAX ;
+      for(int i=sink;i!=source;i=parent[i]) { //finding min capacity for a path
+          u = parent[i] ;
+          parentflow = min(parentflow, rgraph[u][i]) ;
       }
-      for(int i=sink;i!=source;i=path[i]) {
-        u = path[i] ;
-        rgraph[u][i] -= pathflow ;
-        rgraph[i][u] += pathflow ; //adding to the reverse edge
+
+      for(int i=sink;i!=source;i=parent[i]) {
+        u = parent[i] ;
+        rgraph[u][i] -= parentflow ;
+        rgraph[i][u] += parentflow ; //adding to the reverse edge
       }
-      maxflow += pathflow ;
+      maxflow += parentflow ;
   }
   return maxflow ;
 }
 
+
 int main(int argc, char const *argv[]) {
   cin >> nodes ;
   int graph[nodes][nodes] ;
-  for(int i=0;i<nodes.i++) {
+  for(int i=0;i<nodes;i++) {
     for(int j=0;j<nodes;j++) {
       cin >> graph[i][j] ;
     }
