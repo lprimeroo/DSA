@@ -27,12 +27,6 @@
 
 using namespace std;
 
-typedef std::vector<int> vi;
-typedef std::vector<std::string> vs;
-typedef std::pair<int, int> pii;
-typedef std::set<int> si;
-typedef std::map<std::string, int> msi;
-
 int phi(int n) {
   int result = n ;
   for(int i=2;i*i<=n;++i) {
@@ -42,9 +36,9 @@ int phi(int n) {
       }
       result = result - (result/i) ;
     }
-    if(n>1)
-      result = result - (result/n) ;
   }
+  if(n>1)
+      result = result - (result/n) ;
   return result ;
 }
 

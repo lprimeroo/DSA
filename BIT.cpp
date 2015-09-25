@@ -48,7 +48,7 @@ int updateTree(int BITree[], int i, int value, int n) {
 int main(int argc, char const *argv[]) {
   int freq[] = {2,1,1,3,2,3,4,5,6,7,8,9} ;
   int n = sizeof(freq) / sizeof(freq[0]) ;
-  int BITree[n] ;
+  int BITree[n+1] ;
   memset(BITree,0,sizeof(BITree)) ;
   for(int i=0;i<n;i++) //construction phase
   	updateTree(BITree,i, freq[i],n) ;
