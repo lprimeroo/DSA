@@ -21,7 +21,7 @@ Reference purposes .
 18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
 19. [Binary Search Tree](https://github.com/saru95/DSA/blob/master/BST.cpp)
 20. Sieve of Eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/SEPrime.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SEPrime.py)
-21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.c
+21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.c)
 22. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp)
 23. [Pollard Rho Integer Factorization](https://github.com/saru95/DSA/blob/master/PRB.cpp)
 24. [Binary Indexed Trees / BIT](https://github.com/saru95/DSA/blob/master/BIT.cpp)
