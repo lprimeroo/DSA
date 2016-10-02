@@ -1,7 +1,7 @@
 # DSA (Data Structures and Algorithms)
 Reference purposes . 
 
-1. [Knuth-Morris-Pratt Algorithm] [cpp](https://github.com/saru95/DSA/blob/master/KMP.cpp) [python](https://github.com/saru95/DSA/blob/master/KMP.py)
+1. Knuth-Morris-Pratt Algorithm [cpp](https://github.com/saru95/DSA/blob/master/KMP.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/KMP.py)
 2. [Depth First Search w/o stack](https://github.com/saru95/DSA/blob/master/DFS.cpp)
 3. [Depth First Search with stack](https://github.com/saru95/DSA/blob/master/DFSS.cpp)
 4. [Breadth First Search ](https://github.com/saru95/DSA/blob/master/BFS.cpp)
