@@ -18,7 +18,7 @@ Reference purposes .
 15. [Modular Multipicative Inverse using Fermat's Theorem](https://github.com/saru95/DSA/blob/master/Mmi.cpp)
 16. [Tries](https://github.com/saru95/DSA/blob/master/Tries.cpp)
 17. [Bellman-Ford Algorithm](https://github.com/saru95/DSA/blob/master/BellmanFord.cpp)
-18. [Rabin-Karp Algorithm](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp)
+18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
 19. [Binary Search Tree](https://github.com/saru95/DSA/blob/master/BST.cpp)
 20. [Sieve of Eratosthenes](https://github.com/saru95/DSA/blob/master/SEPrime.cpp)
 21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.cpp)
