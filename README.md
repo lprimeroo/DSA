@@ -2,7 +2,7 @@
 Reference purposes . 
 
 1. Knuth-Morris-Pratt Algorithm [cpp](https://github.com/saru95/DSA/blob/master/KMP.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/KMP.py)
-2. Depth First Search w/o stack[cpp](https://github.com/saru95/DSA/blob/master/DFS.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/DFS.py)
+2. Depth First Search w/o stack [cpp](https://github.com/saru95/DSA/blob/master/DFS.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/DFS.py)
 3. [Depth First Search with stack](https://github.com/saru95/DSA/blob/master/DFSS.cpp)
 4. [Breadth First Search ](https://github.com/saru95/DSA/blob/master/BFS.cpp)
 5. [Suffix Arrays](https://github.com/saru95/DSA/blob/master/SuffixArray.cpp)
