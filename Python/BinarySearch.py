@@ -5,10 +5,11 @@ def binarySearch(inputList, item):
     upper = len(inputList) - 1
     isFound = False
 
-    while (lower <= upper and not isFound):
+    while (lower <= upper):
         mid = (lower + upper) // 2
         if inputList[mid] == item:
             isFound = True
+            break
         elif item < inputList[mid]:
             upper = mid - 1
         else:
