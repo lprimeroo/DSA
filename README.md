@@ -11,7 +11,7 @@ Reference purposes .
 8. [Segment Trees with Max Prefix/Suffix Sum and Max Subvector sum](https://github.com/saru95/DSA/blob/master/SEGTREE.cpp)
 9. Euler Totient Function [cpp](https://github.com/saru95/DSA/blob/master/EulerTotient.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/EulerTotient.py)
 10. [Dijkstra's Algorithm](https://github.com/saru95/DSA/blob/master/Djikstras.cpp)
-11. [Fast Modulo Multiplication / Binary Exponention](https://github.com/saru95/DSA/blob/master/Fmm.cpp)
+11. [Fast Modulo Multiplication / Binary Exponention][ cpp ](https://github.com/saru95/DSA/blob/master/Fmm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fmm.py)
 12. [Meet in Middle](https://github.com/saru95/DSA/blob/master/Mim.cpp)
 13. Binary Search [cpp](https://github.com/saru95/DSA/blob/master/BinarySearch.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearch.py)
 14. [Matrix Exponention for Fibonacci Series](https://github.com/saru95/DSA/blob/master/Me.cpp)
