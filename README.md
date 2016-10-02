@@ -9,7 +9,7 @@ Reference purposes .
 6. [Segment Trees](https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp)
 7. [Segment Trees with Lazy Propogation](https://github.com/saru95/DSA/blob/master/SegmentTreesLazy.cpp)
 8. [Segment Trees with Max Prefix/Suffix Sum and Max Subvector sum](https://github.com/saru95/DSA/blob/master/SEGTREE.cpp)
-9. [Euler Totient Function](https://github.com/saru95/DSA/blob/master/EulerTotient.cpp)
+9. Euler Totient Function [cpp](https://github.com/saru95/DSA/blob/master/EulerTotient.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/EulerTotient.py)
 10. [Dijkstra's Algorithm](https://github.com/saru95/DSA/blob/master/Djikstras.cpp)
 11. [Fast Modulo Multiplication / Binary Exponention](https://github.com/saru95/DSA/blob/master/Fmm.cpp)
 12. [Meet in Middle](https://github.com/saru95/DSA/blob/master/Mim.cpp)
