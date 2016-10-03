@@ -17,7 +17,7 @@ Reference purposes .
 14. [Matrix Exponention for Fibonacci Series](https://github.com/saru95/DSA/blob/master/Me.cpp)
 15. [Modular Multipicative Inverse using Fermat's Theorem](https://github.com/saru95/DSA/blob/master/Mmi.cpp)
 16. [Tries](https://github.com/saru95/DSA/blob/master/Tries.cpp)
-17. [Bellman-Ford Algorithm](https://github.com/saru95/DSA/blob/master/BellmanFord.cpp)
+17. [Bellman-Ford Algorithm](https://github.com/saru95/DSA/blob/master/BellmanFord.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-3/Python/BellmanFord.py)
 18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
 19. [Binary Search Tree](https://github.com/saru95/DSA/BST.c)
 20. Sieve of Eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/SEPrime.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SEPrime.py)
