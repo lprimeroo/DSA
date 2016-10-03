@@ -19,3 +19,4 @@ def phi(n):
 if __name__ == "__main__":
     for n in range(1, 11):
       print ("phi({f}) = {f1}\n".format(f = n, f1 = phi(n)))
+
