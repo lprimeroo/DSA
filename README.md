@@ -23,7 +23,7 @@ Reference purposes .
 20. Sieve of Eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/SEPrime.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SEPrime.py)
 21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.c
 22. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp)
-23. [Pollard Rho Integer Factorization](https://github.com/saru95/DSA/blob/master/PRB.cpp)
+23. Pollard Rho Integer Factorization [cpp](https://github.com/saru95/DSA/blob/master/PRB.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/PRB.py)
 24. [Binary Indexed Trees / BIT](https://github.com/saru95/DSA/blob/master/BIT.cpp)
 25. [Square Root Decomposition](https://github.com/saru95/DSA/blob/master/SRD.cpp)
 26. [Ford-Fulkerson Algorithm for Maximum Flow (BFS)/ Edmonds Karp Algorithm](https://github.com/saru95/DSA/blob/master/FFA.cpp)
