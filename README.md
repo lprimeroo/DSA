@@ -29,5 +29,5 @@ Reference purposes .
 26. [Ford-Fulkerson Algorithm for Maximum Flow (BFS)/ Edmonds Karp Algorithm](https://github.com/saru95/DSA/blob/master/FFA.cpp)
 27. [Miller Rabin Primality Test](https://github.com/saru95/DSA/blob/master/MRPT.cpp)
 28. [Fibonacci Numbers using fast doubling](https://github.com/saru95/DSA/blob/master/Fourier-Doubling.py)
-29. [Generating Non-Fibonacci Numbers](https://github.com/saru95/DSA/blob/master/NonFibo.cpp)
+29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/NonFibo.cpp) [Python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
 30. [Segmented Sieve Method of Erastothenes](https://github.com/saru95/DSA/blob/master/SS.cpp)
