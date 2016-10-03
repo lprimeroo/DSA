@@ -31,3 +31,4 @@ Reference purposes .
 28. [Fibonacci Numbers using fast doubling](https://github.com/saru95/DSA/blob/master/Fourier-Doubling.py)
 29. [Generating Non-Fibonacci Numbers](https://github.com/saru95/DSA/blob/master/NonFibo.cpp)
 30. [Segmented Sieve Method of Erastothenes](https://github.com/saru95/DSA/blob/master/SS.cpp)
+31. Qucik Sort [cpp](https://github.com/saru95/DSA/blob/master/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py)
