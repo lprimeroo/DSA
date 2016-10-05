@@ -33,3 +33,4 @@ Reference purposes .
 30. [Segmented Sieve Method of Erastothenes](https://github.com/saru95/DSA/blob/master/SS.cpp)
 31. Qucik Sort [cpp](https://github.com/saru95/DSA/blob/master/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py)
 32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py)
+33. ConvexHull(GrahamScan)[cpp](https://github.com/saru95/DSA/blob/master/ConvexHull(graham).cpp)
