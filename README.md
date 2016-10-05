@@ -35,3 +35,4 @@ Reference purposes .
 32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py)
 33. ConvexHull(GrahamScan)[cpp](https://github.com/saru95/DSA/blob/master/ConvexHull(graham).cpp)
 34. Longest Increasing Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LIS.py)
+35. Mergesort [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py)
