@@ -19,7 +19,7 @@ Reference purposes .
 16. [Tries](https://github.com/saru95/DSA/blob/master/Tries.cpp)
 17. [Bellman-Ford Algorithm](https://github.com/saru95/DSA/blob/master/BellmanFord.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-3/Python/BellmanFord.py)
 18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
-19. [Binary Search Tree](https://github.com/saru95/DSA/BST.c)
+19. Binary Search Tree [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearchTree.py)
 20. Sieve of Eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/SEPrime.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SEPrime.py)
 21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.c
 22. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-4/Python/FloydWarshall.py)
@@ -32,3 +32,6 @@ Reference purposes .
 29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/NonFibo.cpp) [Python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
 30. [Segmented Sieve Method of Erastothenes](https://github.com/saru95/DSA/blob/master/SS.cpp)
 31. Qucik Sort [cpp](https://github.com/saru95/DSA/blob/master/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py)
+32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py)
+33. ConvexHull(GrahamScan)[cpp](https://github.com/saru95/DSA/blob/master/ConvexHull(graham).cpp)
+34. Longest Increasing Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LIS.py)
