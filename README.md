@@ -36,3 +36,4 @@ Reference purposes .
 33. ConvexHull(GrahamScan)[cpp](https://github.com/saru95/DSA/blob/master/ConvexHull(graham).cpp)
 34. Longest Increasing Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LIS.py)
 35. Mergesort [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py)
+36. Closest Pair Of Points [cpp](https://github.com/saru95/DSA/blob/master/closestpairofpoints.cpp)
