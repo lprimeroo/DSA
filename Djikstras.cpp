@@ -35,11 +35,10 @@ typedef std::set<int> si;
 typedef std::map<std::string, int> msi;
 
 vector< pair<int , int > > *adj ;
-bool *visited ;
-int d[1024] ;  // distance array
-
+int d[1024] ;  		// distance array
+bool mark[1024];	//mark(visited) array
 void dij(int source,int nodes) {
-	priority_queue< pii , vector< pii > , greater<pii> > q ;
+	priority_queue< pii , vector< pii > , greater<pii> > q ;	//STL Priority Queue
 	int u, cost ,v , w;
 	q.push(0,source) ;
 	d[source] = 0 ;
@@ -48,7 +47,8 @@ void dij(int source,int nodes) {
 		u = q.top().second ;
 		q.pop() ;
 		if(d[u]<cost) continue ;
-
+		if(mark[u])	continue;	//For not visiting same nodes
+		mark[u] = true;			//(this will decrease some overhead)
 		for(int i=0;i<nodes;i++) {
 			v = adj[u][i].first ;
 			w = adj[u][i].second ;
@@ -64,7 +64,6 @@ int main(int argc, char const *argv[]) {
 	int nodes, edges, sourcenode ,u , v, w;
 	memset(d,0,sizeof(d)) ;
 	cin >> nodes ;
-	visited = new bool[nodes] ;
 	adj = new vector< pair<int ,int > >[nodes] ;
 
 	cin >> edges ;
