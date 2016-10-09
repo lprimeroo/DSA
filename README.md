@@ -38,3 +38,4 @@ Reference purposes .
 35. Mergesort [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py)
 36. Closest Pair Of Points [cpp](https://github.com/saru95/DSA/blob/master/closestpairofpoints.cpp)
 37. Radix Sort [python](https://github.com/saru95/DSA/blob/master/Python/RadixSort.py)
+38. Knapsack 0-1 [python](https://github.com/saru95/DSA/blob/master/Python/Knapsack0-1.py)
