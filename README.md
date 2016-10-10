@@ -5,7 +5,7 @@ Reference purposes .
 2. Depth First Search w/o stack [cpp](https://github.com/saru95/DSA/blob/master/DFS.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/DFS.py)
 3. Depth First Search with stack [cpp](https://github.com/saru95/DSA/blob/master/DFSS.cpp) [python](http://github.com/saru95/DSA/blob/master/DFSS.py)
 4. Breadth First Search [cpp](https://github.com/saru95/DSA/blob/master/BFS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BFS.py)
-5. Suffix Arrays (https://github.com/saru95/DSA/blob/master/SuffixArray.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SuffixArray.py)
+5. [Suffix Arrays](https://github.com/saru95/DSA/blob/master/SuffixArray.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SuffixArray.py)
 6. [Segment Trees](https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-1/Python/SEGTREE.py)
 7. [Segment Trees with Lazy Propogation](https://github.com/saru95/DSA/blob/master/SegmentTreesLazy.cpp)
 8. [Segment Trees with Max Prefix/Suffix Sum and Max Subvector sum](https://github.com/saru95/DSA/blob/master/SEGTREE.cpp)
