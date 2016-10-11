@@ -21,10 +21,10 @@ Reference purposes .
 18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
 19. Binary Search Tree [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearchTree.py)
 20. Sieve of Eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/SEPrime.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SEPrime.py)
-21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.c
+21. [Maximum Bipartite Matching](https://github.com/saru95/DSA/blob/master/MBM.cpp)
 22. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-4/Python/FloydWarshall.py)
 23. Pollard Rho Integer Factorization [cpp](https://github.com/saru95/DSA/blob/master/PRB.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/PRB.py)
-24. [Binary Indexed Trees / BIT](https://github.com/saru95/DSA/blob/master/BIT.cpp) (https://github.com/DravitLochan/DSA/blob/master/Python/BIT.py) [python]
+24. Binary Indexed Trees / BIT [cpp](https://github.com/saru95/DSA/blob/master/BIT.cpp) [python](https://github.com/DravitLochan/DSA/blob/master/Python/BIT.py)
 25. [Square Root Decomposition](https://github.com/saru95/DSA/blob/master/SRD.cpp)
 26. [Ford-Fulkerson Algorithm for Maximum Flow (BFS)/ Edmonds Karp Algorithm](https://github.com/saru95/DSA/blob/master/FFA.cpp)
 27. [Miller Rabin Primality Test](https://github.com/saru95/DSA/blob/master/MRPT.cpp)
