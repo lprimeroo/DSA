@@ -5,7 +5,7 @@ Reference purposes .
 2. Depth First Search w/o stack [cpp](https://github.com/saru95/DSA/blob/master/DFS.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/DFS.py)
 3. Depth First Search with stack [cpp](https://github.com/saru95/DSA/blob/master/DFSS.cpp) [python](http://github.com/saru95/DSA/blob/master/DFSS.py)
 4. Breadth First Search [cpp](https://github.com/saru95/DSA/blob/master/BFS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BFS.py)
-5. Suffix Arrays [python](https://github.com/Akhil09/DSA/blob/master/Python/SuffixArray.py)
+5. Suffix Arrays(https://github.com/Akhil09/DSA/blob/master/Python/SuffixArray.py) [python]
 6. [Segment Trees](https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-1/Python/SEGTREE.py)
 7. [Segment Trees with Lazy Propogation](https://github.com/saru95/DSA/blob/master/SegmentTreesLazy.cpp)
 8. [Segment Trees with Max Prefix/Suffix Sum and Max Subvector sum](https://github.com/saru95/DSA/blob/master/SEGTREE.cpp)
@@ -16,7 +16,7 @@ Reference purposes .
 13. Binary Search [cpp](https://github.com/saru95/DSA/blob/master/BinarySearch.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearch.py)
 14. [Matrix Exponention for Fibonacci Series](https://github.com/saru95/DSA/blob/master/Me.cpp)
 15. [Modular Multipicative Inverse using Fermat's Theorem](https://github.com/saru95/DSA/blob/master/Mmi.cpp)
-16. [Tries](https://github.com/saru95/DSA/blob/master/Tries.cpp) [python](https://github.com/Akhil09/DSA/blob/master/Python/tries.py)
+16. [Tries](https://github.com/saru95/DSA/blob/master/Tries.cpp) (https://github.com/Akhil09/DSA/blob/master/Python/tries.py) [python]
 17. [Bellman-Ford Algorithm](https://github.com/saru95/DSA/blob/master/BellmanFord.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-3/Python/BellmanFord.py)
 18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
 19. Binary Search Tree [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearchTree.py)
