@@ -28,7 +28,7 @@ Reference purposes .
 25. [Square Root Decomposition](https://github.com/saru95/DSA/blob/master/SRD.cpp)
 26. [Ford-Fulkerson Algorithm for Maximum Flow (BFS)/ Edmonds Karp Algorithm](https://github.com/saru95/DSA/blob/master/FFA.cpp)
 27. [Miller Rabin Primality Test](https://github.com/saru95/DSA/blob/master/MRPT.cpp)
-28. [Fibonacci Numbers using fast doubling](https://github.com/saru95/DSA/blob/master/Fourier-Doubling.py)
+28. Fibonacci Numbers using fast doubling [cpp](https://github.com/saru95/DSA/blob/master/fastdoublingfibo.cpp) [Python](https://github.com/saru95/DSA/blob/master/Python/Fourier-Doubling.py)
 29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/NonFibo.cpp) [Python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
 30. [Segmented Sieve Method of Erastothenes](https://github.com/saru95/DSA/blob/master/SS.cpp)
 31. Quick Sort [cpp](https://github.com/saru95/DSA/blob/master/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py)
