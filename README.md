@@ -30,7 +30,7 @@ Reference purposes .
 27. [Miller Rabin Primality Test](https://github.com/saru95/DSA/blob/master/MRPT.cpp)
 28. [Fibonacci Numbers using fast doubling](https://github.com/saru95/DSA/blob/master/Fourier-Doubling.py)
 29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/NonFibo.cpp) [Python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
-30. [Segmented Sieve Method of Erastothenes](https://github.com/saru95/DSA/blob/master/SS.cpp)
+30. Segmented Sieve Method of Erastothenes [cpp](https://github.com/saru95/DSA/blob/master/SS.cpp) [Python](https://github.com/saru95/DSA/blob/master/Python/SegmentedSieve.py)
 31. Quick Sort [cpp](https://github.com/saru95/DSA/blob/master/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py)
 32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py)
 33. ConvexHull(GrahamScan)[cpp](https://github.com/saru95/DSA/blob/master/ConvexHull(graham).cpp)
