@@ -13,7 +13,7 @@ Reference purposes .
 10. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Djikstras.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/dijkstra.py)
 11. Fast Modulo Multiplication / Binary Exponention [cpp](https://github.com/saru95/DSA/blob/master/Fmm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fmm.py)
 12. [Meet in Middle](https://github.com/saru95/DSA/blob/master/Mim.cpp)
-13. Binary Search [cpp](https://github.com/saru95/DSA/blob/master/BinarySearch.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearch.py)
+13. Binary Search [cpp](https://github.com/saru95/DSA/blob/master/BinarySearch.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearch.py)  [java](https://github.com/saru95/DSA/blob/master/Java/BinarySearch.java)
 14. [Matrix Exponention for Fibonacci Series](https://github.com/saru95/DSA/blob/master/Me.cpp)
 15. [Modular Multipicative Inverse using Fermat's Theorem](https://github.com/saru95/DSA/blob/master/Mmi.cpp)
 16. Tries [cpp](https://github.com/saru95/DSA/blob/master/Tries.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/tries.py)
