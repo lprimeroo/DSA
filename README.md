@@ -43,3 +43,8 @@ Reference purposes .
 40. Longest Common Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LCS.py)
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp)
 42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py)
+
+43. Breadth First Search [cpp](https://github.com/saru95/DSA/blob/master/BFS.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/BreadthFirstPaths.java)
+44. Depth First Search with stack [cpp](https://github.com/saru95/DSA/blob/master/DFSS.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/DFS.java)
+45. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/HeapSort.java)
+46. Segment Trees(https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/SegmentTree.java)
