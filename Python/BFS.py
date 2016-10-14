@@ -2,7 +2,7 @@ import queue
 
 def BFS(start_node):
 
-    dfs_order = []  # to store list of elements in order of DFS 
+    bfs_order = []  # to store list of elements in order of BFS 
 
     q = queue.Queue()   # create a FIFO Queue
     q.put(start_node)   # add start node to Queue
@@ -10,7 +10,7 @@ def BFS(start_node):
     
     while not q.empty():    # while the queue is not empty
         current_node = q.get()  # get first node from the queue
-        dfs_order.append(current_node)  # add to the dfs order list
+        bfs_order.append(current_node)  # add to the bfs order list
         for adjacent_node in adjacency_list[current_node]:  # for each adjacent node of the current_node
             # print (current_node, adjacent_node, visited[adjacent_node])
             # print ("\n")
@@ -18,8 +18,8 @@ def BFS(start_node):
                 q.put(adjacent_node)    # put this node in the queue
                 visited[adjacent_node] = True    # mark the node as visited
 
-    print ("\nDFS for the graph is : ")
-    print (dfs_order)
+    print ("\nBFS for the graph is : ")
+    print (bfs_order)
 
 
 if __name__=="__main__":
