@@ -50,3 +50,4 @@ Reference purposes .
 46. Segment Trees(https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/SegmentTree.java)
 47. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Djikstras.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/Dijkstra.java)
 48. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp) [Java] (https://github.com/saru95/DSA/blob/master/Java/floyd.java)
+49. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp) [Java] (https://github.com/saru95/DSA/blob/master/Java/KruskalMST.java)
