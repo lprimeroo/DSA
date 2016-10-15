@@ -48,3 +48,5 @@ Reference purposes .
 44. Depth First Search with stack [cpp](https://github.com/saru95/DSA/blob/master/DFSS.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/DFS.java)
 45. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/HeapSort.java)
 46. Segment Trees(https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/SegmentTree.java)
+47. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Djikstras.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/Dijkstra.java)
+48. [Floyd-Warshall Algorithm](https://github.com/saru95/DSA/blob/master/FWA.cpp) [Java] (https://github.com/saru95/DSA/blob/master/Java/floyd.java)
