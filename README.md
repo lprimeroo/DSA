@@ -43,4 +43,4 @@ Reference purposes .
 40. Longest Common Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LCS.py)
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp)
 42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java)
-43. SegmentTree with Lazy Propogation [java] (https://github.com/saru95/DSA/blob/master/Java/SegmentTree.java)
+43. SegmentTree with Lazy Propogation [java] (https://github.com/yashchauhan28/DSA/blob/master/Java/SegmentTree.java)
