@@ -44,5 +44,5 @@ Reference purposes .
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp)
 42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java)
 43. Stacks<br/>
-  1. Array implementation 
-  2. Linked List Implementation
+  1. Array implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-ArrayImp.cpp)
+  2. Linked List Implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-LinkLImp.cpp)
