@@ -46,3 +46,4 @@ Reference purposes .
 43. Stacks<br/>
   1. Array implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-ArrayImp.cpp)
   2. Linked List Implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-LinkLImp.cpp)
+44. Queue [cpp](https://github.com/saru95/DSA/blob/master/Queue.cpp)
