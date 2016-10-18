@@ -46,3 +46,4 @@ Reference purposes .
 43. Stacks - Array implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-ArrayImp.cpp) - Linked List Implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-LinkLImp.cpp)
 44. Queue [cpp](https://github.com/saru95/DSA/blob/master/Queue.cpp)
 45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/CombSort.java)
+46. Shell Sort [java](https://github.com/saru95/DSA/blob/master/Java/ShellSort.java)
