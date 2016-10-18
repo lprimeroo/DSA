@@ -1,5 +1,5 @@
 # DSA (Data Structures and Algorithms)
-Reference purposes . 
+Reference purposes .
 
 1. Knuth-Morris-Pratt Algorithm [cpp](https://github.com/saru95/DSA/blob/master/KMP.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/KMP.py)
 2. Depth First Search w/o stack [cpp](https://github.com/saru95/DSA/blob/master/DFS.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/DFS.py)
@@ -47,3 +47,4 @@ Reference purposes .
 44. Queue [cpp](https://github.com/saru95/DSA/blob/master/Queue.cpp)
 45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/CombSort.java)
 46. Shell Sort [java](https://github.com/saru95/DSA/blob/master/Java/ShellSort.java)
+47. Prim's Algorithm [python][https://github.com/saru95/DSA/blob/master/Python/prims_mst.py]
