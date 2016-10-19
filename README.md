@@ -48,3 +48,7 @@ Reference purposes .
 45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/CombSort.java)
 46. Shell Sort [java](https://github.com/saru95/DSA/blob/master/Java/ShellSort.java)
 47. Prim's Algorithm [python][https://github.com/saru95/DSA/blob/master/Python/prims_mst.py]
+48. Expression Tree [cpp]
+(https://github.com/saru95/DSA/blob/master/expressionTree.cpp)
+49. Linked List functionality [cpp]
+(https://github.com/saru95/DSA/blob/master/linkedList_funcs.c)
