@@ -1,3 +1,5 @@
+*~
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +28,7 @@
 *.exe
 *.out
 *.app
+
+# Java specific
+*.class
+
