@@ -38,7 +38,7 @@ Reference purposes .
 35. Mergesort [cpp](https://github.com/saru95/DSA/blob/master/MergeSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/MergeSort.java)
 36. Closest Pair Of Points [cpp](https://github.com/saru95/DSA/blob/master/closestpairofpoints.cpp)
 37. Radix Sort [cpp](https://github.com/saru95/DSA/blob/master/radixsort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RadixSort.py) [Java](https://github.com/saru95/DSA/blob/master/Java/RadixSort.java)
-38. Knapsack 0-1 [python](https://github.com/saru95/DSA/blob/master/Python/Knapsack0-1.py)
+38. Knapsack 0-1 [python](https://github.com/saru95/DSA/blob/master/Python/Knapsack0-1.py) [java](https://github.com/saru95/DSA/blob/master/Java/Knapsack0_1.java)
 39. Nqueens [python](https://github.com/saru95/DSA/blob/master/Python/Nqueens.py) [java](https://github.com/saru95/DSA/blob/master/Java/NQueens.java)
 40. Longest Common Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LCS.py)
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp)
