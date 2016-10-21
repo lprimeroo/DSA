@@ -50,3 +50,7 @@ Reference purposes .
 47. Prim's Algorithm [python](https://github.com/saru95/DSA/blob/master/Python/prims_mst.py)
 48. Expression Tree [cpp](https://github.com/saru95/DSA/blob/master/expressionTree.cpp)
 49. Linked List functionality [cpp](https://github.com/saru95/DSA/blob/master/linkedList_funcs.c)
+50. Min Heap as array [cpp]
+(https://github.com/saru95/DSA/blob/master/min_heap.cpp)
+51. Max Heap as array [cpp]
+(https://github.com/saru95/DSA/blob/master/max_heap.cpp)
