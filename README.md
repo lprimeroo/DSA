@@ -41,7 +41,7 @@ Reference purposes .
 38. Knapsack 0-1 [python](https://github.com/saru95/DSA/blob/master/Python/Knapsack0-1.py)
 39. Nqueens [python](https://github.com/saru95/DSA/blob/master/Python/Nqueens.py) [java](https://github.com/saru95/DSA/blob/master/Java/NQueens.java)
 40. Longest Common Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LCS.py)
-41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp)
+41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/Kruskal.java)
 42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java)
 43. Stacks - Array implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-ArrayImp.cpp) - Linked List Implementation [cpp](https://github.com/saru95/DSA/blob/master/Stacks-LinkLImp.cpp)
 44. Queue [cpp](https://github.com/saru95/DSA/blob/master/Queue.cpp)
