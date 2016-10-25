@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class HeapSort {
 	public static void main(String[] args) {
-		int [] arr;// = new int[100000];
+		int [] arr;
 		int n;
 		Scanner userIn = new Scanner(System.in);
 
