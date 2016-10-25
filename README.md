@@ -21,7 +21,7 @@ Reference purposes .
 18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
 19. Binary Search Tree [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearchTree.py)
 20. Sieve of Eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/SEPrime.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SEPrime.py)
-21. Maximum Bipartite Matching [cpp](https://github.com/saru95/DSA/blob/master/MBM.cpp)
+21. Maximum Bipartite Matching [cpp](https://github.com/saru95/DSA/blob/master/MBM.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/MBM.py)
 22. Floyd-Warshall Algorithm [cpp](https://github.com/saru95/DSA/blob/master/FWA.cpp) [python](https://github.com/robin-0/DSA/blob/patch-4/Python/FloydWarshall.py) [Java] (https://github.com/saru95/DSA/blob/master/Java/floyd.java)
 23. Pollard Rho Integer Factorization [cpp](https://github.com/saru95/DSA/blob/master/PRB.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/PRB.py)
 24. Binary Indexed Trees / BIT [cpp](https://github.com/saru95/DSA/blob/master/BIT.cpp) [python](https://github.com/DravitLochan/DSA/blob/master/Python/BIT.py)
@@ -39,7 +39,8 @@ Reference purposes .
 36. Closest Pair Of Points [cpp](https://github.com/saru95/DSA/blob/master/closestpairofpoints.cpp)
 37. Radix Sort [cpp](https://github.com/saru95/DSA/blob/master/radixsort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RadixSort.py) [java](https://github.com/saru95/DSA/blob/master/Java/RadixSort.java)
 38. Knapsack 0-1 [python](https://github.com/saru95/DSA/blob/master/Python/Knapsack0-1.py)
-39. Nqueens [python](https://github.com/saru95/DSA/blob/master/Python/Nqueens.py) [java](https://github.com/saru95/DSA/blob/master/Java/NQueens.java)
+39. Nqueens [python](https://github.com/saru95/DSA/blob/master/Python/Nqueens.py) [java](https://github.com/saru95/DSA/blob/master/Java/NQueens.java) [cpp]
+(https://github.com/saru95/DSA/blob/master/Java/NQueens.cpp)
 40. Longest Common Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LCS.py)
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Kruskal.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/Kruskal.java)
 42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java)
