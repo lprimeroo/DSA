@@ -12,7 +12,7 @@ Reference purposes .
 9. Euler Totient Function [cpp](https://github.com/saru95/DSA/blob/master/EulerTotient.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/EulerTotient.py)
 10. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/Djikstras.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/dijkstra.py) [java](https://github.com/saru95/DSA/blob/master/Java/Dijkstra.java)
 11. Fast Modulo Multiplication / Binary Exponention [cpp](https://github.com/saru95/DSA/blob/master/Fmm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fmm.py)
-12. Meet in Middle [cpp](https://github.com/saru95/DSA/blob/master/Mim.cpp)
+12. Meet in Middle [cpp](https://github.com/saru95/DSA/blob/master/Mim.cpp) [python](https://github.com/robin-0/DSA/blob/patch-5/Python/MeetInTheMiddle.py)
 13. Binary Search [cpp](https://github.com/saru95/DSA/blob/master/BinarySearch.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearch.py) [java](https://github.com/saru95/DSA/blob/master/Java/BinarySearch.java)
 14. Matrix Exponention for Fibonacci Series [cpp](https://github.com/saru95/DSA/blob/master/Me.cpp)
 15. Modular Multipicative Inverse using Fermat's Theorem [cpp](https://github.com/saru95/DSA/blob/master/Mmi.cpp)
