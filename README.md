@@ -32,7 +32,7 @@ Reference purposes .
 29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/NonFibo.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
 30. Segmented Sieve Method of Erastothenes [cpp](https://github.com/saru95/DSA/blob/master/SS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SegmentedSieve.py)
 31. Quick Sort [cpp](https://github.com/saru95/DSA/blob/master/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py) [java](https://github.com/saru95/DSA/blob/master/Java/Quicksort.java)
-32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py)
+32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py) [java](https://github.com/saru95/DSA/blob/master/Java/HeapSort.java)
 33. ConvexHull(GrahamScan)[cpp](https://github.com/saru95/DSA/blob/master/ConvexHull(graham).cpp)
 34. Longest Increasing Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LIS.py)
 35. Mergesort [cpp](https://github.com/saru95/DSA/blob/master/MergeSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/MergeSort.java)
