@@ -55,3 +55,4 @@ Reference purposes .
 (https://github.com/saru95/DSA/blob/master/min_heap.cpp)
 51. Max Heap as array [cpp]
 (https://github.com/saru95/DSA/blob/master/max_heap.cpp)
+52. Insertion Sort [Python](https://github.com/saru95/DSA/blob/master/Python/insertion-sort.py)
