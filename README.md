@@ -56,3 +56,6 @@ Reference purposes .
 51. Max Heap as array [cpp]
 (https://github.com/saru95/DSA/blob/master/max_heap.cpp)
 52. Insertion Sort [Python](https://github.com/saru95/DSA/blob/master/Python/insertion-sort.py)
+53. Miller Rabin Primality Test [cpp] (https://github.com/saru95/DSA/blob/master/primality.cpp)
+54. Sieve of eratosthenes [cpp] (https://github.com/saru95/DSA/blob/master/sieve.cpp)
+55. Sieve implemented with BIT [cpp] (https://github.com/saru95/DSA/blob/master/BIt-Sieve.cpp)
