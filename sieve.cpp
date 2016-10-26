@@ -79,8 +79,3 @@ int main()
  
     return 0;
 }
- 
-Close
-Sphere Research Labs. Ideone is powered by Sphere Engine™
-home terms of use api faq credits feedback & bugs desktop	mobile
-12, 0.34s, 0.88s
