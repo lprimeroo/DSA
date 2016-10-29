@@ -60,4 +60,8 @@ Reference purposes .
 54. Sieve of eratosthenes [cpp] (https://github.com/saru95/DSA/blob/master/sieve.cpp)
 55. Sieve implemented with BIT [cpp] (https://github.com/saru95/DSA/blob/master/BIt-Sieve.cpp)
 56. Topological sort [cpp](https://github.com/saru95/DSA/blob/master/TopologicalSort.cpp) [Java](https://github.com/saru95/DSA/blob/master/Java/TopologicalSort.java)
-
+57. AVL Tree: Self Balancing Binary Search Tree [Jave](https://github.com/saru95/DSA/blob/master/Java/AVLTree.java)
+58. Interval Tree [Java](https://github.com/saru95/DSA/blob/master/Java/IntervalTree.java)
+59. K - Dimensional Tree [Java](https://github.com/saru95/DSA/blob/master/Java/KdTree.java)
+60. QuadTree [Java](https://github.com/saru95/DSA/blob/master/Java/QuadTree.java)
+61. Radix Tree [Java](https://github.com/saru95/DSA/blob/master/Java/RadixTree.java)
