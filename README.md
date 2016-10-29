@@ -59,3 +59,4 @@ Reference purposes .
 53. Miller Rabin Primality Test [cpp] (https://github.com/saru95/DSA/blob/master/primality.cpp)
 54. Sieve of eratosthenes [cpp] (https://github.com/saru95/DSA/blob/master/sieve.cpp)
 55. Sieve implemented with BIT [cpp] (https://github.com/saru95/DSA/blob/master/BIt-Sieve.cpp)
+56. Z algorithm (Linear time pattern searching Algorithm) [cpp] (https://github.com/saru95/DSA/blob/master/z-algorithm.cpp)
