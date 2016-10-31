@@ -26,7 +26,7 @@ Reference purposes .
 23. Pollard Rho Integer Factorization [cpp](https://github.com/saru95/DSA/blob/master/PRB.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/PRB.py)
 24. Binary Indexed Trees / BIT [cpp](https://github.com/saru95/DSA/blob/master/BIT.cpp) [python](https://github.com/DravitLochan/DSA/blob/master/Python/BIT.py)
 25. Square Root Decomposition [cpp](https://github.com/saru95/DSA/blob/master/SRD.cpp)
-26. Ford-Fulkerson Algorithm for Maximum Flow (BFS)/ Edmonds Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/FFA.cpp)
+26. Ford-Fulkerson Algorithm for Maximum Flow (BFS)/ Edmonds Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/FFA.cpp) [java](https://github.com/saru95/DSA/pull/108/files)
 27. Miller Rabin Primality Test [cpp](https://github.com/saru95/DSA/blob/master/MRPT.cpp) [python] (https://github.com/saru95/DSA/blob/master/Python/MRPT.py)
 28. Fibonacci Numbers using fast doubling [cpp](https://github.com/saru95/DSA/blob/master/fastdoublingfibo.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fourier-Doubling.py) [java](https://github.com/saru95/DSA/blob/master/Java/FastDoublingFibo.java)
 29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/NonFibo.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
