@@ -1,5 +1,13 @@
 # blanyal, hiimbex :)
 
+'''
+    The goal of binary ssearch is to divide the search space in half every iteration
+    Binary search also assumes you have a sorted list of integers and goes through every
+    time and determines if the item you are searching for is greater than or less than your 
+    mid point and jumps to the respective side from there. If your item is found it returns
+    true, otherwise your item is either not in the list or the list was not sorted, etc.
+'''
+
 def binarysearch (list, item):
     first = 0
     last = len(list) - 1
