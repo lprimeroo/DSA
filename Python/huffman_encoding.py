@@ -5,6 +5,9 @@
 # 2. The frequency of each distinct letter.
 # 3. The code for each distinct letter.
 # 4. The encoding of the input string
+
+__author__ = "Anirudh Swaminathan"
+
 import Queue
 
 code = [""]*128
