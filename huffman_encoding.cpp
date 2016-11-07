@@ -5,7 +5,7 @@
 // 2. The frequency of each distinct letter.
 // 3. The code for each distinct letter.
 // 4. The encoding of the input string
-// @author = "Anirudh Swaminatjan"
+// @author = "Anirudh Swaminathan"
 #include <iostream>
 #include <fstream>
 #include <strings.h>
