@@ -37,7 +37,7 @@ struct compare
     }
 };
 
-// The encode function, that inserts into the tree.
+// The encode function, that recursively builds the hash that stores the code.
 void encodeIt(dataCh *root,string ch)
 {
     if(!root)
@@ -51,6 +51,8 @@ void encodeIt(dataCh *root,string ch)
     encodeIt(root->left,ch+"0");
     encodeIt(root->right,ch+"1");
 }
+
+// The function that builds the tree.
 void executeTree(char dataHe[],unsigned freqHe[],int n)
 {
     dataCh *top;
@@ -69,6 +71,8 @@ void executeTree(char dataHe[],unsigned freqHe[],int n)
         top->right = righty;
         q.push(top);
     }
+
+    // Call the function to generate the hash for the characters input
     encodeIt(q.top(),"");
     while(!q.empty())
         q.pop();
