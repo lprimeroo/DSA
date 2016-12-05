@@ -3,7 +3,7 @@ Reference purposes .
 
 1. Knuth-Morris-Pratt Algorithm [cpp](https://github.com/saru95/DSA/blob/master/KMP.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/KMP.py)
 2. Depth First Search w/o stack [cpp](https://github.com/saru95/DSA/blob/master/DFS.cpp) [python](https://github/com/saru95/DSA/blob/master/Python/DFS.py)
-3. Depth First Search with stack [cpp](https://github.com/saru95/DSA/blob/master/DFSS.cpp) [python](http://github.com/saru95/DSA/blob/master/DFSS.py)
+3. Depth First Search with stack [cpp](https://github.com/saru95/DSA/blob/master/DFSS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/DFSS.py)
 4. Breadth First Search [cpp](https://github.com/saru95/DSA/blob/master/BFS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BFS.py) [java](https://github.com/saru95/DSA/blob/master/Java/BreadthFirstPaths.java)
 5. Suffix Arrays [cpp](https://github.com/saru95/DSA/blob/master/SuffixArray.cpp)
 6. Segment Trees [cpp](https://github.com/saru95/DSA/blob/master/SegmentTrees.cpp) [python] (https://github.com/robin-0/DSA/blob/patch-1/Python/SEGTREE.py) [java](https://github.com/saru95/DSA/blob/master/Java/SegmentTrees.java)
