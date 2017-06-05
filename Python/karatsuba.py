@@ -19,7 +19,7 @@ def kmult(x,y):
     if n==1:
         return int(x[0])*int(y[0])
 
-    # Make the integers to multiplied equal length
+    # Make the integers to be multiplied of equal lengths
     for _ in range(len(x),n):
         x.insert(0,'0')
     for _ in range(len(y),n):
