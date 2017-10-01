@@ -58,3 +58,4 @@ Reference purposes .
 55. Sieve implemented with BIT [cpp](https://github.com/saru95/DSA/blob/master/CPP/BIt-Sieve.cpp)
 56. Z algorithm (Linear time pattern searching Algorithm) [cpp](https://github.com/saru95/DSA/blob/master/CPP/z-algorithm.cpp)
 57. Karatsuba algorithm (for fast multiplication) [cpp](https://github.com/saru95/DSA/blob/master/CPP/Karatsuba_algorithm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/karatsuba.py)
+58. Counting sort [cpp] https://github.com/saru95/DSA/blob/master/CPP/Counting_Sort.cpp
