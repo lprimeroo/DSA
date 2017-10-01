@@ -42,7 +42,7 @@ Reference purposes .
 39. Nqueens [python](https://github.com/saru95/DSA/blob/master/Python/Nqueens.py) [java](https://github.com/saru95/DSA/blob/master/Java/NQueens.java) [cpp](https://github.com/saru95/DSA/blob/master/CPP/Java/NQueens.cpp)
 40. Longest Common Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LCS.py)
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/Kruskal.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/Kruskal.java)
-42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java)
+42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java) [scala](https://github.com/saru95/DSA/blob/master/Scala/BubbleSort.scala)
 43. Stacks - Array implementation [cpp](https://github.com/saru95/DSA/blob/master/CPP/Stacks-ArrayImp.cpp) - Linked List Implementation [cpp](https://github.com/saru95/DSA/blob/master/CPP/Stacks-LinkLImp.cpp)
 44. Queue [cpp](https://github.com/saru95/DSA/blob/master/CPP/Queue.cpp)
 45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/CombSort.java)
