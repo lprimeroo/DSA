@@ -35,7 +35,7 @@ Reference purposes .
 32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py) [java](https://github.com/saru95/DSA/blob/master/Java/HeapSort.java)
 33. ConvexHull(GrahamScan) [cpp](https://github.com/saru95/DSA/blob/master/CPP/ConvexHull(graham).cpp)
 34. Longest Increasing Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LIS.py)
-35. Mergesort [cpp](https://github.com/saru95/DSA/blob/master/CPP/MergeSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/MergeSort.java)
+35. Mergesort [cpp](https://github.com/saru95/DSA/blob/master/CPP/MergeSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/MergeSort.java) [scala](https://github.com/saru95/DSA/blob/master/Scala/MergeSort.scala)
 36. Closest Pair Of Points [cpp](https://github.com/saru95/DSA/blob/master/CPP/closestpairofpoints.cpp)
 37. Radix Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/radixsort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RadixSort.py) [Java](https://github.com/saru95/DSA/blob/master/Java/RadixSort.java)
 38. Knapsack 0-1 [python](https://github.com/saru95/DSA/blob/master/Python/Knapsack0-1.py) [java](https://github.com/saru95/DSA/blob/master/Java/Knapsack0_1.java)
