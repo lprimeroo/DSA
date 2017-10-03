@@ -19,7 +19,7 @@ Reference purposes .
 16. Tries [cpp](https://github.com/saru95/DSA/blob/master/CPP/Tries.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/tries.py)
 17. Bellman-Ford Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/BellmanFord.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BellmanFord.py)
 18. Rabin-Karp Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/RabinKarp.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/RabinKarp.py)
-19. Binary Search Tree [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearchTree.py) [c](https://github.com/saru95/DSA/blob/master/C/BST.py)
+19. Binary Search Tree [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearchTree.py) [c](https://github.com/saru95/DSA/blob/master/C/BST.c)
 20. Sieve of Eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/CPP/SEPrime.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SEPrime.py) [java](https://github.com/saru95/DSA/blob/master/Java/SieveOfEratosthenes.java)
 21. Maximum Bipartite Matching [cpp](https://github.com/saru95/DSA/blob/master/CPP/MBM.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/MBM.py)
 22. Floyd-Warshall Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/FWA.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/FloydWarshall.py) [Java](https://github.com/saru95/DSA/blob/master/Java/floyd.java)
