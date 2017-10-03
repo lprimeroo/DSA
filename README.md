@@ -52,7 +52,7 @@ Reference purposes .
 49. Linked List functionality [c](https://github.com/saru95/DSA/blob/master/C/linkedList_funcs.c)
 50. Min Heap as array [cpp](https://github.com/saru95/DSA/blob/master/CPP/min_heap.cpp) [java](https://github.com/saru95/DSA/blob/master/MinHeap.java)
 51. Max Heap as array [cpp](https://github.com/saru95/DSA/blob/master/CPP/max_heap.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/MaxHeap.java)
-52. Insertion Sort [Python](https://github.com/saru95/DSA/blob/master/Python/insertion-sort.py)
+52. Insertion Sort [Python](https://github.com/saru95/DSA/blob/master/Python/insertion-sort.py) [cpp](https://github.com/saru95/DSA/blob/master/CPP/InsertionSort.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/InsertionSort.java)
 53. Miller Rabin Primality Test [cpp](https://github.com/saru95/DSA/blob/master/CPP/primality.cpp)
 54. Sieve of eratosthenes [cpp](https://github.com/saru95/DSA/blob/master/CPP/sieve.cpp)
 55. Sieve implemented with BIT [cpp](https://github.com/saru95/DSA/blob/master/CPP/BIt-Sieve.cpp)
@@ -60,3 +60,4 @@ Reference purposes .
 57. Karatsuba algorithm (for fast multiplication) [cpp](https://github.com/saru95/DSA/blob/master/CPP/Karatsuba_algorithm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/karatsuba.py)
 58. Counting sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/Counting_Sort.cpp)
 59. CircularBuffer [cpp](https://github.com/saru95/DSA/blob/master/CPP/CircularBuffer.cpp)
+59. Selection Sort [Python](https://github.com/saru95/DSA/blob/master/Python/SelectionSort.py) [cpp](https://github.com/saru95/DSA/blob/master/CPP/SelectionSort.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/SelectionSort.java)
