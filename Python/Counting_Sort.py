@@ -40,7 +40,7 @@ def countSort(array):
 
     return array
 
-def test_counting_sory():
+def test_counting_sort():
     """
     Running internal test
     """
@@ -67,4 +67,4 @@ def main():
 if __name__ == "__main__":
     main()
     #runn internal test
-    #est_counting_sory()
+    #est_counting_sort()
