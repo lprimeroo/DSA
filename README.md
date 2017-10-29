@@ -44,7 +44,7 @@ Reference purposes .
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/Kruskal.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/Kruskal.java)
 42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java) [scala](https://github.com/saru95/DSA/blob/master/Scala/BubbleSort.scala)
 43. Stacks - Array implementation [cpp](https://github.com/saru95/DSA/blob/master/CPP/Stacks-ArrayImp.cpp) - Linked List Implementation [cpp](https://github.com/saru95/DSA/blob/master/CPP/Stacks-LinkLImp.cpp)
-44. Queue [cpp](https://github.com/saru95/DSA/blob/master/CPP/Queue.cpp)
+44. Queue [cpp](https://github.com/saru95/DSA/blob/master/CPP/Queue.cpp)[python](https://github.com/saru95/DSA/blob/master/Python/Queue.py)
 45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/CombSort.java)
 46. Shell Sort [java](https://github.com/saru95/DSA/blob/master/Java/ShellSort.java)
 47. Prim's Algorithm [python](https://github.com/saru95/DSA/blob/master/Python/prims_mst.py)
