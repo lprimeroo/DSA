@@ -69,3 +69,4 @@ Reference purposes .
 66. Shunting Yard Algorithm [java](https://github.com/saru95/DSA/blob/master/Java/shuntingYard.java)
 67. Closest Pair Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/closestPair.cpp)
 68. Bucket Sort Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/bucketSort.cpp)
+69. K-Dimentional Tree [cpp](https://github.com/saru95/DSA/blob/master/CPP/kdimentionalTree.cpp)
