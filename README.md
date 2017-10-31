@@ -67,3 +67,4 @@ Reference purposes .
 64. Topological Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/topological_sort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/topologicalSort.py)
 65. Factors of an integer [clojure](https://github.com/saru95/DSA/blob/master/Clojure/factors_of_an_integer.clj)
 66. Shunting Yard Algorithm [java](https://github.com/saru95/DSA/blob/master/Java/shuntingYard.java)
+67. Closest Pair Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/closestPair.cpp)
