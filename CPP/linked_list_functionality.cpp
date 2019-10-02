@@ -1,5 +1,40 @@
-#include "List.h"
+//#include "List.h"
 #include<cstddef>
+#include<iostream>
+using namespace std;
+
+template <class DT>
+class List {
+
+	template <class DT>
+	struct Node {
+		DT data;
+		Node* next;
+
+		Node() {
+			data = 0;
+			next = NULL;
+		}
+	};
+
+	Node<DT>* head;
+	Node<DT>* current;
+	int nItems;
+public:
+	List();
+	~List();
+	int getNItems() {
+		return nItems;
+	}
+	void insert(const DT& newDataItem);
+	void insertAt(const DT& newDatItem, int index);
+	bool isEmpty();
+	void display();
+	DT getCursor();
+	bool gotoNext();
+	bool gotoPrior();
+	bool moveCursorToEnd();
+};
 
 template<class DT>
 List<DT>::List() {
