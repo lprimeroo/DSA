@@ -49,7 +49,7 @@ Reference purposes .
 46. Shell Sort [java](https://github.com/saru95/DSA/blob/master/Java/ShellSort.java)
 47. Prim's Algorithm [python](https://github.com/saru95/DSA/blob/master/Python/prims_mst.py)
 48. Expression Tree [cpp](https://github.com/saru95/DSA/blob/master/CPP/expressionTree.cpp)
-49. Linked List functionality [c](https://github.com/saru95/DSA/blob/master/C/linkedList_funcs.c)
+49. Linked List functionality [c](https://github.com/saru95/DSA/blob/master/C/linkedList_funcs.c) [cpp](https://github.com/saruftw/DSA/blob/bcef904c12698b30270d198443081492a538b4fc/CPP/linked_list_functionality.cpp)
 50. Min Heap as array [cpp](https://github.com/saru95/DSA/blob/master/CPP/min_heap.cpp) [java](https://github.com/saru95/DSA/blob/master/MinHeap.java)
 51. Max Heap as array [cpp](https://github.com/saru95/DSA/blob/master/CPP/max_heap.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/MaxHeap.java)
 52. Insertion Sort [Python](https://github.com/saru95/DSA/blob/master/Python/insertion-sort.py) [cpp](https://github.com/saru95/DSA/blob/master/CPP/InsertionSort.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/InsertionSort.java)
