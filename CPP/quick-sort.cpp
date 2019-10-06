@@ -1,3 +1,7 @@
+// LANGUAGE: C++
+// AUTHOR: Nathalia-b
+// GITHUB: https://github.com/nathalia-b
+
 #include <iostream>
 using namespace std;
 
