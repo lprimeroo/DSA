@@ -59,3 +59,7 @@ Reference purposes .
 56. Z algorithm (Linear time pattern searching Algorithm) [cpp](https://github.com/saru95/DSA/blob/master/CPP/z-algorithm.cpp)
 57. Karatsuba algorithm (for fast multiplication) [cpp](https://github.com/saru95/DSA/blob/master/CPP/Karatsuba_algorithm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/karatsuba.py)
 58. Quickselect [cpp](https://github.com/saru95/DSA/blob/master/CPP/Quickselect.cpp)
+59. Disjoint set Union [cpp](https://github.com/saru95/DSA/blob/master/CPP/DSU.cpp)
+60. Inorder Binary Tree Traversal recursive [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Recursive.cpp.cpp)
+61. Inorder Binary Tree Traversal iterative using Stack [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Stack.cpp)
+62. Inorder Morris Traversal [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Morris.cpp)
