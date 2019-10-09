@@ -31,7 +31,7 @@ Reference purposes .
 28. Fibonacci Numbers using fast doubling [cpp](https://github.com/saru95/DSA/blob/master/CPP/fastdoublingfibo.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fourier-Doubling.py) [java](https://github.com/saru95/DSA/blob/master/Java/FastDoublingFibo.java)
 29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/CPP/NonFibo.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
 30. Segmented Sieve Method of Erastothenes [cpp](https://github.com/saru95/DSA/blob/master/CPP/SS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SegmentedSieve.py)
-31. Quick Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py) [java](https://github.com/saru95/DSA/blob/master/Java/Quicksort.java) [C] (https://github.com/saru95/DSA/blob/master/C/quicksort.c)
+31. Quick Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py) [java](https://github.com/saru95/DSA/blob/master/Java/Quicksort.java) [c] (https://github.com/saru95/DSA/blob/master/C/quicksort.c)
 32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py) [java](https://github.com/saru95/DSA/blob/master/Java/HeapSort.java)
 33. ConvexHull(GrahamScan) [cpp](https://github.com/saru95/DSA/blob/master/CPP/ConvexHull(graham).cpp)
 34. Longest Increasing Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LIS.py)
