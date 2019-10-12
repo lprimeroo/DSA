@@ -40,7 +40,7 @@ int main() {
 	struct node *root = NULL;
 	int n, k;
 
-	cout << "Dati numarul de noduri:";
+	cout << "Give the number of elements: ";
 	cin >> n;
 
 	for (int i = 0; i < n; i++) {
@@ -53,7 +53,6 @@ int main() {
 	}
 
 	print(root);
-
 
 	return 0;
 }
