@@ -1,29 +1,58 @@
 #include <iostream>
 
-template <class T> struct Node
-{
-  T value;
-  Node *left;
-  Node *right;
+using namespace std;
 
-  Node(T value)
-  {
-      this->value = value;
-  }
+struct node {
+	int key;
+	struct node *left, *right;
+};
 
-  Node (T value, Node <T> left, Node <T> right)
-  {
-    this->value = value;
-    this->left = left;
-    this->right = right;
-  }
+struct node *newN(int k) {
+	node* aux = new node;
+	aux->key = k;
+	aux->left = NULL;
+	aux->right = NULL;
+	return aux;
 }
 
-template <class T> class BinarySearchTree{
-  
+struct node* insert(struct node* node, int k) {
+	if (node == NULL || k == node->key) {
+		return newN(k);
+	}
+	if (k < node->key) {
+		node->left = insert(node->left, k);
+	} else if (k > node->key) {
+		node->right = insert(node->right, k);
+	}
+
+	return node;
 }
 
-int int main(int argc, char const *argv[]) {
-  /* code */
-  return 0;
+void print(struct node* root) {
+	if (root != NULL) {
+		print(root->left);
+		cout << root->key << " ";
+		print(root->right);
+	}
+}
+
+int main() {
+	struct node *root = NULL;
+	int n, k;
+
+	cout << "Give the number of elements: ";
+	cin >> n;
+
+	for (int i = 0; i < n; i++) {
+		cin >> k;
+		if (root == NULL) {
+			root = insert(root, k);
+		} else {
+			insert(root, k);
+		}
+	}
+
+	print(root);
+
+	return 0;
 }
