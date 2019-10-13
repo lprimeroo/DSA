@@ -107,4 +107,4 @@ int main() {
 	tarjan->solve();
 	delete tarjan;
 	return 0;
-}
+} 
