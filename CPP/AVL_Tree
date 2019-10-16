@@ -1,0 +1,161 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+struct node{
+    int data;
+    node *left=NULL;
+    node *right=NULL;
+};
+
+int height(node *n){
+    if(n==NULL)
+        return 0;
+    else
+        return 1+max(height(n->left), height(n->right));
+}
+
+int balance_factor(node *n){
+    return height(n->left)-height(n->right);
+}
+
+node *left_rotate(node *n){
+    node *right_node = n->right;
+    n->right = right_node->left;
+    right_node->left = n;
+    return right_node;
+}
+
+node *right_rotate(node *n){
+    node *left_node = n->left;
+    n->left = left_node->right;
+    left_node->right = n;
+    return left_node;
+}
+
+void preorder(node *n){
+    if(n==NULL)
+        return;
+    cout<<n->data<<" ";
+    preorder(n->left);
+    preorder(n->right);
+}
+
+node *avl_insert(node *n, int data){
+    if(n==NULL){
+        n = new node;
+        n->data = data;
+        return n;
+    }
+    if(data < n->data)
+        n->left = avl_insert(n->left, data);
+    else if (data > n->data)
+        n->right = avl_insert(n->right, data);
+    else
+        return n;
+
+    int bf = balance_factor(n);
+    if(abs(bf)<=1)
+        return n;
+    if(bf>1){
+        if(data < n->left->data){
+            return right_rotate(n);
+        }else{
+            n->left = left_rotate(n->left);
+            return right_rotate(n);
+        }
+    }else{
+        if(data > n->right->data){
+            return left_rotate(n);
+        }else{
+            n->right = right_rotate(n->right);
+            return left_rotate(n);
+        }
+    }
+}
+
+node *avl_delete(node *n, int data){
+    if(n==NULL)
+        return n;
+    if(data < n->data)
+        n->left = avl_delete(n->left, data);
+    else if(data > n->data)
+        n->right = avl_delete(n->right, data);
+    else{
+        if(n->left == NULL || n->right==NULL){
+            node *t = n;
+            if(n->left == n->right){
+                n=NULL;
+            }else if(n->left){
+                n = n->left;
+            }else{
+                n = n->right;
+            }
+            delete(t);
+        }else{
+            node *successor = n->right;
+            while(successor->left)
+                successor = successor->left;
+            n->data = successor->data;
+            n->right = avl_delete(n->right, successor->data);
+        }
+    }
+    if(n==NULL)
+        return n;
+    int bf = balance_factor(n);
+    if(abs(bf)<=1)
+        return n;
+    if(bf>1){
+        int lbf = balance_factor(n->left);
+        if(lbf>=0){
+            return right_rotate(n);
+        }else{
+            n->left = left_rotate(n->left);
+            return right_rotate(n);
+        }
+    }else{
+        int rbf = balance_factor(n->right);
+        if(rbf<=0){
+            return left_rotate(n);
+        }else{
+            n->right = right_rotate(n->right);
+            return left_rotate(n);
+        }
+    }
+}
+
+int main_avl(){
+  node *root = NULL;
+  char choice='u';
+  int temp;
+  while(choice!='e'){
+    cout<<"\nEnter choice(i-insert, d-delete, p-print, e-exit): ";
+    cin>>choice;
+    switch(choice){
+      case 'i':
+        cout<<"Enter value to be inserted: ";
+        cin>>temp;
+        root = avl_insert(root, temp);
+        break;
+      case 'd':
+        if(root){
+          cout<<"Enter value to be inserted: ";
+          cin>>temp;
+          root = avl_delete(root, temp);
+         }else{
+          cout<<"Tree is empty!\n";
+        }
+        break;
+      case 'p':
+        preorder(root); cout<<endl;
+        break;
+      case 'e':
+        cout<<"Bye!\n";
+        break;
+      default:
+        cout<<"Invalid Choice!\n";
+        break;
+    }
+  }
+  return 0;
+}
