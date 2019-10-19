@@ -1,6 +1,6 @@
 import java.util.Random;
  
-public class Bucket_Sort 
+public class BucketSort
 {
     static int[] sort(int[] sequence, int maxValue) 
     {
