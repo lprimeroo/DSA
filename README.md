@@ -74,3 +74,4 @@ Reference purposes .
 71. Inorder Binary Tree Traversal recursive [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Recursive.cpp.cpp)
 72. Inorder Binary Tree Traversal iterative using Stack [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Stack.cpp)
 73. Inorder Morris Traversal [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Morris.cpp)
+74. Ternary Search [cpp](https://github.com/saru95/DSA/blob/master/CPP/TernarySearch.cpp)
