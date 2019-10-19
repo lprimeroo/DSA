@@ -36,8 +36,13 @@ Reference purposes .
 28. Fibonacci Numbers using fast doubling [cpp](https://github.com/saru95/DSA/blob/master/CPP/fastdoublingfibo.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fourier-Doubling.py) [java](https://github.com/saru95/DSA/blob/master/Java/FastDoublingFibo.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/FastDoublingFibo.kt)
 29. Generating Non-Fibonacci Numbers [cpp](https://github.com/saru95/DSA/blob/master/CPP/NonFibo.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/nNonFib.py)
 30. Segmented Sieve Method of Erastothenes [cpp](https://github.com/saru95/DSA/blob/master/CPP/SS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/SegmentedSieve.py)
+<<<<<<< HEAD
 31. Quick Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py) [java](https://github.com/saru95/DSA/blob/master/Java/Quicksort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/Quicksort.kt)
 32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py) [java](https://github.com/saru95/DSA/blob/master/Java/HeapSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/HeapSort.kt)
+=======
+31. Quick Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/quicksort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/quicksort.py) [java](https://github.com/saru95/DSA/blob/master/Java/Quicksort.java) [c](https://github.com/saru95/DSA/blob/master/C/quicksort.c)
+32. Heap Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/HeapSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/HeapSort.py) [java](https://github.com/saru95/DSA/blob/master/Java/HeapSort.java)
+>>>>>>> b7ae2336e2e528bffd0270ed762698a1a0cc438a
 33. ConvexHull(GrahamScan) [cpp](https://github.com/saru95/DSA/blob/master/CPP/ConvexHull(graham).cpp)
 34. Longest Increasing Subsequence [python](https://github.com/saru95/DSA/blob/master/Python/LIS.py)
 35. Mergesort [cpp](https://github.com/saru95/DSA/blob/master/CPP/MergeSort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/mergesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/MergeSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/MergeSort.kt) [scala](https://github.com/saru95/DSA/blob/master/Scala/MergeSort.scala)
@@ -84,3 +89,4 @@ Reference purposes .
 71. Inorder Binary Tree Traversal recursive [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Recursive.cpp.cpp)
 72. Inorder Binary Tree Traversal iterative using Stack [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Stack.cpp)
 73. Inorder Morris Traversal [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Morris.cpp)
+74. Ternary Search [cpp](https://github.com/saru95/DSA/blob/master/CPP/TernarySearch.cpp)
