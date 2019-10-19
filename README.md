@@ -11,7 +11,7 @@ Reference purposes .
 8. Segment Trees with Max Prefix/Suffix Sum and Max Subvector Sum [cpp](https://github.com/saru95/DSA/blob/master/CPP/SEGTREE.cpp)
 9. Euler Totient Function [cpp](https://github.com/saru95/DSA/blob/master/CPP/EulerTotient.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/EulerTotient.py)
 10. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/Djikstras.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/dijkstra.py) [java](https://github.com/saru95/DSA/blob/master/Java/Dijkstra.java)
-11. Fast Modulo Multiplication / Binary Exponention [cpp](https://github.com/saru95/DSA/blob/master/CPP/Fmm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fmm.py)
+11. Fast Modulo Multiplication / Binary Exponention [cpp](https://github.com/saru95/DSA/blob/master/CPP/Fmm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fmm.py) [java](https://github.com/saru95/DSA/blob/master/Java/Fmm.java)
 12. Meet in Middle [cpp](https://github.com/saru95/DSA/blob/master/CPP/Mim.cpp) [python](https://github.com/robin-0/DSA/blob/patch-5/Python/MeetInTheMiddle.py)
 13. Binary Search [cpp](https://github.com/saru95/DSA/blob/master/CPP/BinarySearch.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearch.py) [java](https://github.com/saru95/DSA/blob/master/Java/BinarySearch.java) [coffee](https://github.com/saru95/DSA/blob/master/Coffee/binary_search.coffee) [f#](https://github.com/saru95/DSA/blob/master/Fsharp/binary_search.fs) [chapel](https://github.com/saru95/DSA/blob/master/Chapel/binary_search.chpl)
 14. Matrix Exponention for Fibonacci Series [cpp](https://github.com/saru95/DSA/blob/master/CPP/Me.cpp)
