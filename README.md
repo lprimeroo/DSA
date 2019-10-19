@@ -70,7 +70,7 @@ Reference purposes .
 65. Factors of an integer [clojure](https://github.com/saru95/DSA/blob/master/Clojure/factors_of_an_integer.clj)
 66. Shunting Yard Algorithm [java](https://github.com/saru95/DSA/blob/master/Java/shuntingYard.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/ShuntingYard.kt)
 67. Closest Pair Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/closestPair.cpp)
-68. Bucket Sort Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/bucketSort.cpp)  [java](https://github.com/vinaytejab/DSA/blob/master/Java/BucketSort.java) [kotlin](https://github.com/vinaytejab/DSA/blob/master/Kotlin/BucketSort.kt)
+68. Bucket Sort Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/bucketSort.cpp)  [java](https://github.com/saru95/DSA/blob/master/Java/BucketSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/BucketSort.kt)
 69. K-Dimentional Tree [cpp](https://github.com/saru95/DSA/blob/master/CPP/kdimensionalTree.cpp)
 70. Disjoint set Union [cpp](https://github.com/saru95/DSA/blob/master/CPP/DSU.cpp)
 71. Inorder Binary Tree Traversal recursive [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Recursive.cpp.cpp)
