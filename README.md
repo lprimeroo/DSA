@@ -10,13 +10,10 @@ Reference purposes .
 7. Segment Trees with Lazy Propogation [cpp](https://github.com/saru95/DSA/blob/master/CPP/SegmentTreesLazy.cpp)
 8. Segment Trees with Max Prefix/Suffix Sum and Max Subvector Sum [cpp](https://github.com/saru95/DSA/blob/master/CPP/SEGTREE.cpp)
 9. Euler Totient Function [cpp](https://github.com/saru95/DSA/blob/master/CPP/EulerTotient.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/EulerTotient.py)
-<<<<<<< HEAD
 10. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/Djikstras.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/dijkstra.py) [java](https://github.com/saru95/DSA/blob/master/Java/Dijkstra.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/Dijkstra.kt)
 11. Fast Modulo Multiplication / Binary Exponention [cpp](https://github.com/saru95/DSA/blob/master/CPP/Fmm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fmm.py)
-=======
 10. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/Djikstras.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/dijkstra.py) [java](https://github.com/saru95/DSA/blob/master/Java/Dijkstra.java)
 11. Fast Modulo Multiplication / Binary Exponention [cpp](https://github.com/saru95/DSA/blob/master/CPP/Fmm.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Fmm.py) [java](https://github.com/saru95/DSA/blob/master/Java/Fmm.java)
->>>>>>> 0451c1f4f5c86ba921de081cbf5b0f5659b831ab
 12. Meet in Middle [cpp](https://github.com/saru95/DSA/blob/master/CPP/Mim.cpp) [python](https://github.com/robin-0/DSA/blob/patch-5/Python/MeetInTheMiddle.py)
 13. Binary Search [cpp](https://github.com/saru95/DSA/blob/master/CPP/BinarySearch.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BinarySearch.py) [java](https://github.com/saru95/DSA/blob/master/Java/BinarySearch.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/BinarySearch.kt) [coffee](https://github.com/saru95/DSA/blob/master/Coffee/binary_search.coffee) [f#](https://github.com/saru95/DSA/blob/master/Fsharp/binary_search.fs) [chapel](https://github.com/saru95/DSA/blob/master/Chapel/binary_search.chpl)
 14. Matrix Exponention for Fibonacci Series [cpp](https://github.com/saru95/DSA/blob/master/CPP/Me.cpp)
@@ -49,13 +46,8 @@ Reference purposes .
 41. Kruskal Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/Kruskal.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/Kruskal.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/Kruskal.kt)
 42. Bubble Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/Bubblesort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/Bubblesort.py) [java](https://github.com/saru95/DSA/blob/master/Java/BubbleSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/BubbleSort.kt) [scala](https://github.com/saru95/DSA/blob/master/Scala/BubbleSort.scala)
 43. Stacks - Array implementation [cpp](https://github.com/saru95/DSA/blob/master/CPP/Stacks-ArrayImp.cpp) - Linked List Implementation [cpp](https://github.com/saru95/DSA/blob/master/CPP/Stacks-LinkLImp.cpp)
-<<<<<<< HEAD
 44. Queue [cpp](https://github.com/saru95/DSA/blob/master/CPP/Queue.cpp) [c](https://github.com/theasianpianist/DSA/blob/master/C/queue.c) [java](https://github.com/saru95/DSA/blob/master/Java/Queue.java)
-45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/CombSort.java)
-=======
-44. Queue [cpp](https://github.com/saru95/DSA/blob/master/CPP/Queue.cpp) [c](https://github.com/theasianpianist/DSA/blob/master/C/queue.c)
 45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/Java/CombSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/CombSort.kt)
->>>>>>> 7fe6007a3a22e4eb548c3d64cb175334213b7896
 46. Shell Sort [java](https://github.com/saru95/DSA/blob/master/Java/ShellSort.java) [cpp](https://github.com/vatsalanarang/DSA/blob/master/CPP/shellsort.cpp)
 47. Prim's Algorithm [python](https://github.com/saru95/DSA/blob/master/Python/prims_mst.py)
 48. Expression Tree [cpp](https://github.com/saru95/DSA/blob/master/CPP/expressionTree.cpp)
