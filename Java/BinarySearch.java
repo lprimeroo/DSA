@@ -3,19 +3,19 @@ import java.util.Scanner;
 class BinarySearch {
 	
 	//Function using binary search algo in recursive method
-	int binarysearch(int[] arr,int l,int r,int x)
+	int binarySearch(int[] arr,int low,int high,int searchElement)
 	{
-		if(r>=l)
+		if(high>=low)
 		{
-			int mid=l+(r-l)/2;
+			int mid=low+(high-low)/2;
 			
-			if(arr[mid]==x)
+			if(arr[mid]==searchElement)
 				return mid;
 			
-			if(arr[mid]>x)
-				return binarysearch(arr,l,mid-1,x);
+			if(arr[mid]>searchElement)
+				return binarySearch(arr,low,mid-1,searchElement);
 			
-				return binarysearch(arr,mid+1,r,x);
+				return binarySearch(arr,mid+1,high,searchElement);
 		}
 		return -1;
 	}
@@ -35,9 +35,9 @@ class BinarySearch {
 		arr[i]=input.nextInt();
 		
 		System.out.print("Enter element to be searched:");
-		int el=input.nextInt();
+		int findElement=input.nextInt();
 		
-		int result = obj.binarysearch(arr,0,n-1,el);
+		int result = obj.binarySearch(arr,0,n-1,findElement);
 		
 	    if (result == -1)
 	        System.out.println("Element not present");
