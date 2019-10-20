@@ -74,3 +74,8 @@ Reference purposes .
 71. Inorder Binary Tree Traversal recursive [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Recursive.cpp.cpp)
 72. Inorder Binary Tree Traversal iterative using Stack [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Stack.cpp)
 73. Inorder Morris Traversal [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Morris.cpp)
+74. Hashing Algorithms [c](https://github.com/Lucifergene/DSA/blob/master/C/Hashing/double_hashing.c)
+75. Linked List Algorithms [c](https://github.com/Lucifergene/DSA/blob/master/C/Linked%20List/Double%20Linked%20List.c)
+76. Queue Algorithms [c](https://github.com/Lucifergene/DSA/blob/master/C/Queue/queue.c)
+77. Search Algorithms [c](https://github.com/Lucifergene/DSA/blob/master/C/Searching/all_searches.c)
+78. Trees Algorithms[c](https://github.com/Lucifergene/DSA/blob/master/C/Trees/BST.c)
