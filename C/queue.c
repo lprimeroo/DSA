@@ -1,3 +1,33 @@
+A queue is a useful data structure in programming. It is similar to the ticket queue outside a cinema hall, where the first person entering the queue is the first person who gets the ticket.
+Queue follows the First In First Out(FIFO) rule - the item that goes in first is the item that comes out first too.
+	
+Queue Specifications-
+
+A queue is an object or more specifically an abstract data structure(ADT) that allows the following operations:
+
+    Enqueue: Add element to end of queue
+    Dequeue: Remove element from front of queue
+    IsEmpty: Check if queue is empty
+    IsFull: Check if queue is full
+    Peek: Get the value of the front of queue without removing it
+   
+How Queue Works-
+
+Queue operations work as follows:
+
+    Two pointers called FRONT and REAR are used to keep track of the first and last elements in the queue.
+    When initializing the queue, we set the value of FRONT and REAR to -1.
+    On enqueing an element, we increase the value of REAR index and place the new element in the position pointed to by REAR.
+    On dequeueing an element, we return the value pointed to by FRONT and increase the FRONT index.
+    Before enqueing, we check if queue is already full.
+    Before dequeuing, we check if queue is already empty.
+    When enqueing the first element, we set the value of FRONT to 0.
+    When dequeing the last element, we reset the values of FRONT and REAR to -1.
+	    
+Here the codes for implementation of queue in C language- 
+
+
+	
 #include <stdio.h>
 #include <stdlib.h>
 
