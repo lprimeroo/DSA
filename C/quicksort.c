@@ -1,3 +1,6 @@
+Quicksort is an algorithm based on divide and conquer approach in which the array is split into subarrays and these sub-arrays are recursively called to sort the elements.
+
+
 // LANGUAGE: C
 // AUTHOR: Nathalia-b
 // GITHUB: https://github.com/nathalia-b
