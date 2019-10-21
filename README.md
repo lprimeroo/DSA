@@ -49,7 +49,7 @@ Reference purposes .
 44. Queue [cpp](https://github.com/saru95/DSA/blob/master/CPP/Queue.cpp) [c](https://github.com/theasianpianist/DSA/blob/master/C/queue.c) [java](https://github.com/saru95/DSA/blob/master/Java/Queue.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/Queue.kt)
 45. Comb Sort [java](https://github.com/saru95/DSA/blob/master/Java/CombSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/CombSort.kt)
 46. Shell Sort [java](https://github.com/saru95/DSA/blob/master/Java/ShellSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/ShellSort.kt) [cpp](https://github.com/vatsalanarang/DSA/blob/master/CPP/shellsort.cpp)
-47. Prim's Algorithm [python](https://github.com/saru95/DSA/blob/master/Python/prims_mst.py)
+47. Prim's Algorithm [python](https://github.com/saru95/DSA/blob/master/Python/prims_mst.py) [java] (https://github.com/saru95/DSA/blob/master/Java/Prims.java)
 48. Expression Tree [cpp](https://github.com/saru95/DSA/blob/master/CPP/expressionTree.cpp)
 49. Linked List functionality [c](https://github.com/saru95/DSA/blob/master/C/linkedList_funcs.c)
 50. Min Heap as array [cpp](https://github.com/saru95/DSA/blob/master/CPP/min_heap.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/MinHeap.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/MinHeap.kt)
