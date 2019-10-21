@@ -72,7 +72,7 @@ Reference purposes .
 67. Closest Pair Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/closestPair.cpp)
 68. Bucket Sort Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/bucketSort.cpp)  [java](https://github.com/saru95/DSA/blob/master/Java/BucketSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/BucketSort.kt)
 69. K-Dimensional Tree [cpp](https://github.com/saru95/DSA/blob/master/CPP/kdimensionalTree.cpp)
-70. Disjoint set Union [cpp](https://github.com/saru95/DSA/blob/master/CPP/DSU.cpp)
+70. Disjoint set Union [cpp](https://github.com/saru95/DSA/blob/master/CPP/DSU.cpp) [java](ttps://github.com/saru95/DSA/blob/master/Java/DSU.java)
 71. Inorder Binary Tree Traversal recursive [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Recursive.cpp.cpp)
 72. Inorder Binary Tree Traversal iterative using Stack [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Stack.cpp)
 73. Inorder Morris Traversal [cpp](https://github.com/saru95/DSA/blob/master/CPP/Inorder_Iterative_Morris.cpp)
