@@ -1,7 +1,7 @@
 package trees.BinarySearchTree;
 
 import java.util.*;
-import trees.BTNode;
+// import trees.BTNode;
 
 public class BSTByLinkedList {
 	BTNode root;
