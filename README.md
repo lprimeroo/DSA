@@ -64,7 +64,7 @@ Reference purposes .
 59. Modular Multiplicative Inverse [cpp](https://github.com/saru95/DSA/blob/master/CPP/ModularMultiplicativeInverse.cpp)
 60. Counting sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/Counting_Sort.cpp)
 61. CircularBuffer [cpp](https://github.com/saru95/DSA/blob/master/CPP/CircularBuffer.cpp)
-62. Selection Sort [python](https://github.com/saru95/DSA/blob/master/Python/SelectionSort.py) [cpp](https://github.com/saru95/DSA/blob/master/CPP/SelectionSort.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/SelectionSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/SelectionSort.kt)[c](https://github.com/krishna6431/DSA/blob/master/C/SelectionSort.c)
+62. Selection Sort [python](https://github.com/saru95/DSA/blob/master/Python/SelectionSort.py) [cpp](https://github.com/saru95/DSA/blob/master/CPP/SelectionSort.cpp) [java](https://github.com/saru95/DSA/blob/master/Java/SelectionSort.java) [kotlin](https://github.com/saru95/DSA/blob/master/Kotlin/SelectionSort.kt) [c](https://github.com/krishna6431/DSA/blob/master/C/SelectionSort.c)
 63. ConvexHull(MonotoneChain) [cpp](https://github.com/saru95/DSA/blob/master/CPP/ConvexHull_MonotoneChain.cpp)
 64. Topological Sort [cpp](https://github.com/saru95/DSA/blob/master/CPP/topological_sort.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/topologicalSort.py)
 65. Factors of an integer [clojure](https://github.com/saru95/DSA/blob/master/Clojure/factors_of_an_integer.clj)
