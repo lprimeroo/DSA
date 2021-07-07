@@ -1,20 +1,28 @@
-#include <iostream>
- 
-int fib(int n){
-	switch(n){
-		case 0:
-			return 0;
-		case 1:
-			return 1;
-		default:
-			return fib(n-1) + fib(n-2);
-	}
- 
-}
- 
-int main() {
-	for(int i = 0; i<10; i++){
-		std::cout << fib(i);
-	}
-	return 0;
-}
+#include<bits/stdc++.h>
+#include<iostream>
+using namespace std;
+int fib(int n) 
+{ 
+
+  int f[n+2];
+  int i; 
+  f[0] = 0; 
+  f[1] = 1; 
+  
+  for (i = 2; i <= n; i++) 
+  { 
+      f[i] = f[i-1] + f[i-2]; 
+  } 
+  
+  return f[n]; 
+} 
+  
+int main () 
+{ 
+  int n ;
+  cout<<"Enter any number : ";
+  cin>>n;
+  cout<<"Fibbonacci series " <<fib(n);
+  getch();
+  return 0; 
+} 
